@@ -1,8 +1,8 @@
 {
 	"mode":"debug",
 	"upload":{
-		"key":"LTAIJYPqiWlq83xb",
-		"secret":"sYGpMMgiqvYXqg1FnRltalRIORwwOJ",
+		"key":"",
+		"secret":"",
 		"url":"http://oss-cn-beijing.aliyuncs.com",
 	    "bucketname":"binaryframework",
 	    "download_host":"https://binaryframework.oss-cn-beijing.aliyuncs.com/"
